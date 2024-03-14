@@ -1,7 +1,7 @@
-name: hello
+name: hello_flutter_plugin
 description: A new Flutter plugin project.
-version: 0.0.2
-homepage:
+version: 0.0.3
+homepage: https://github.com/shantaramk/flutter_plugin.git
 publish_to: https://pub.dev/packages/
 repository: https://github.com/shantaramk/flutter_plugin  # Replace with your GitHub repo URL
 
